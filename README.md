@@ -18,6 +18,16 @@
 
 本套课程涵盖基础语法到高级特性，目前已经发布到抖音课堂上啦！！感兴趣的朋友可以[点击此处](https://v.douyin.com/iR56A6SF)
 
+本人各平台账号：
+
+- [微信公众号](https://blog.csdn.net/qq_47960657?spm=1000.2115.3001.5343) 2020年
+
+- [CSDN账号](https://blog.csdn.net/qq_47960657?spm=1000.2115.3001.5343) 2021-2023年
+
+- [github](https://github.com/flowerchar) 2020-至今
+
+
+
 
 
 -----
